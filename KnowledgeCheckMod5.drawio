@@ -1,0 +1,146 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="28.2.5">
+  <diagram name="Page-1" id="8YYprIkQWZKy8zWMjdU8">
+    <mxGraphModel dx="1148" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-1" target="lbzVZ3PXSd0WB2kI6uyj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="325" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-2" target="lbzVZ3PXSd0WB2kI6uyj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-2" value="Lower the pen" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-4" target="lbzVZ3PXSd0WB2kI6uyj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-4" value="Move pen, drawing line one inch to the right" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-6" target="lbzVZ3PXSd0WB2kI6uyj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-6" value="Move pen, drawing line one inch to the right" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-8" target="lbzVZ3PXSd0WB2kI6uyj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-8" value="Turn pen 90 degrees to the right, facing down" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-10" target="lbzVZ3PXSd0WB2kI6uyj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-10" value="Move pen, drawing line one inch downwards" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-12" target="lbzVZ3PXSd0WB2kI6uyj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-12" value="Move pen, drawing line one inch downwards" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-14" target="lbzVZ3PXSd0WB2kI6uyj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-14" value="Turn pen 90 degrees to the right, facing left now" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-16" target="lbzVZ3PXSd0WB2kI6uyj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-16" value="Move pen, drawing line one inch to the left" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-17" target="lbzVZ3PXSd0WB2kI6uyj-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="940" />
+              <mxPoint x="480" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-17" value="Move pen, drawing line one inch to the left" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-21" target="lbzVZ3PXSd0WB2kI6uyj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-21" value="Turn pen 90 degrees to the right, facing up" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-23" target="lbzVZ3PXSd0WB2kI6uyj-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-23" value="Move pen, drawing line one inch upwards" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-25" target="lbzVZ3PXSd0WB2kI6uyj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-25" value="Move peen, drawing line one inch upwards" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-32" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-27" target="lbzVZ3PXSd0WB2kI6uyj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-27" value="Raise pen from the paper" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-34" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-31" target="lbzVZ3PXSd0WB2kI6uyj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-31" value="Turn pen 90 degrees, facing the right" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-36" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-33" target="lbzVZ3PXSd0WB2kI6uyj-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-33" value="Move the pen one inch to the right" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-35" target="lbzVZ3PXSd0WB2kI6uyj-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-35" value="Turn pen 90 degrees, facing down" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-40" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-37" target="lbzVZ3PXSd0WB2kI6uyj-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-37" value="Lower pen to the paper" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-42" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-39" target="lbzVZ3PXSd0WB2kI6uyj-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-39" value="Draw a circle that is 1 inch in diameter" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-44" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="lbzVZ3PXSd0WB2kI6uyj-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-41" value="Raise pen from the paper" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-45" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1020" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-47" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lbzVZ3PXSd0WB2kI6uyj-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
